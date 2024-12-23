@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: itk.academy.orekhov.springmvclibrary.SpringMvcLibraryApplica
+ tion
+
